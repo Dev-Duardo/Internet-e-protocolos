@@ -2,8 +2,8 @@
 <h1 align="center"> Minha trilha de aprendizado usando o Roadmap. </h1>
 
 
-<h2>internet</h2>
-<h3>O primeiro card é o sobre a internet e seu funcionamento.</h3>
+<h2> internet </h2>
+<h3> O primeiro card é o sobre a internet e seu funcionamento. </h3>
 
 - A internet é um grupo de computadores e outros diversos dispositivos conectados uns aos outros.
 - Para ter a comunicação entre essses diversos dispositivos são utilizados diversos protocolos, entre eles estão os seguintes:
