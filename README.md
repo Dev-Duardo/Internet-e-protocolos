@@ -12,7 +12,7 @@ Um protocolo é um conjunto de regras e padrões que definem como as informaçõ
   
   <li> Protocolo TCP (Trnsmission Control Protocol): Garante que o roteamento dos pactes de dados do feito pelo protocolo IP sejam transmitidos de maneira confiável e eficiente.</li>  
   <li> Alguns conceitos para construção de aplicativos com TCP/IP:</li>
-    <li> Portas: usada para identificar o serviço ou o aplicativo que está em execução, o aplicativo ou o serviço em execução vai ter um número de porta único.</li>
+    <li value = 2> Portas: usada para identificar o serviço ou o aplicativo que está em execução, o aplicativo ou o serviço em execução vai ter um número de porta único.</li>
     <li> Sockets: combinação do número de IP e um número de porta.</li>
     <li> Connections: estabelecida entre dois Sockets quando dois dispositivos precisam se comunicar. Havendo uma negociação de parâmetros, como o tamanho máximo do segmento e da janela, e determina como os dados serão transmitidos pela conexão.</li>
     <li>Data transfer: transmitidos em segmentos contendo um número de sequência e outros metadados que garatem o recebimento e envio dos dados.</li>
