@@ -26,19 +26,21 @@ Um protocolo é um conjunto de regras e padrões que definem como as informaçõ
   - HTTP e HTTPS: protocolo usado para transferir dados entre um cliente (como um navegador da web) e um servidor (como um site). HTTPS é a versão mais segura, ela faz a transmissão dos dados para os clientes usando a criptografia SSL/TSL (Secure Sockets Layer/Transport Layer Security).
   <br>
   
-  <li>SSL/TLS: protocolos de criptografia usados para garantir a segurança de comunicação pela internet.</li>l>
-
+  <li>SSL/TLS: protocolos de criptografia usados para garantir a segurança de comunicação pela internet.</li>
+  <br>
   - Alguns conceitos sobre SSL/TLS:
   - Certificados: usados para estabelecer uma uma comunicação confiável entre clientes e servidores, contém informações sobre os servidores que são garantidas por um terceiro que possui a autoridade para tal.
   - Handshake: é a troca de informações realizadas pelo cliente e o servidor sobre a criptografia de algoritmose outros parâmetros.
   - Encriptação: quando a conexão é estabelecida os dados são encriptados usado o que foi acordado.
-  
+  <br>
   <li> Domain Names: "google.com" é um nome de domínio que será traduzido usando o DNS. Após seu dispositivo fazer uma requisição de DNS para o servidor DNS, que vai retornar um IP corresponde ao site que foi digitado pelo cliente.</li>
   - Conceitos:
   - qualquer computador conectado à Internet pode ser acessado através de um endereço IP público, seja um endereço IPv4 (por exemplo 192.0.2.172) ou um endereço IPv6 (por exemplo, 2001:db8:8b73:0000:0000:8a2e:0370:1337).
   - Estrutura: estrutura simples composta por várias partes (pode ser uma parte apenas, duas, três…), separadas por pontos e lidas da direita para a esquerda:
   <br>
-  ![structure](https://github.com/Dev-Duardo/backend_development_roadmap/assets/86846534/11480467-7aa0-4bba-91e4-e46a7ae2335a)
+  
+    ![structure](https://github.com/Dev-Duardo/backend_development_roadmap/assets/86846534/11480467-7aa0-4bba-91e4-e46a7ae2335a)
+  
   <br>
   - TLDS locais: TLDs locais como .us, .fr, ou .sepodem exigir que o serviço seja fornecido em um determinado idioma ou hospedado em um determinado país. os que contêm .gov só podem ser usados ​​por departamentos governamentais. O .edu TLD deve ser usado apenas por instituições educacionais e acadêmicas. comprimento máximo de um TLD é de 63 caracteres, embora a maioria tenha cerca de 2–3.
 
