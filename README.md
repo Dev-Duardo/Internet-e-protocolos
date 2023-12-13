@@ -39,7 +39,7 @@ Um protocolo é um conjunto de regras e padrões que definem como as informaçõ
   - Estrutura: estrutura simples composta por várias partes (pode ser uma parte apenas, duas, três…), separadas por pontos e lidas da direita para a esquerda:
   <br>
   
-    ![structure](https://github.com/Dev-Duardo/backend_development_roadmap/assets/86846534/11480467-7aa0-4bba-91e4-e46a7ae2335a)
+ <img> ![structure](https://github.com/Dev-Duardo/backend_development_roadmap/assets/86846534/11480467-7aa0-4bba-91e4-e46a7ae2335a) </img>
   
   <br>
   - TLDS locais: TLDs locais como .us, .fr, ou .sepodem exigir que o serviço seja fornecido em um determinado idioma ou hospedado em um determinado país. os que contêm .gov só podem ser usados ​​por departamentos governamentais. O .edu TLD deve ser usado apenas por instituições educacionais e acadêmicas. comprimento máximo de um TLD é de 63 caracteres, embora a maioria tenha cerca de 2–3.
